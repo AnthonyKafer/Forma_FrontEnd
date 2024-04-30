@@ -68,9 +68,9 @@ body{
     font-size: 1.2rem;
 }
 
-.secondimage{
-    margin-top: 5rem;
-    max-width: 80%;
+.second{
+    width: 80%;
+    margin: 5% auto 10% auto;
 }
 
 figcaption{
